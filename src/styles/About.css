@@ -1,0 +1,11 @@
+.about{
+    width: 100%;
+    background-color: red;
+    height: 300px;
+}
+
+.inner{
+    height: 200px;
+    background-color: green;
+    margin-left: 30px;
+}
